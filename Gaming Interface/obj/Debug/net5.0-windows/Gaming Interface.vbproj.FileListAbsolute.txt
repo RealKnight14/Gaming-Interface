@@ -1,0 +1,20 @@
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.vbprojAssemblyReference.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming_Interface.frmProfile.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming_Interface.Resources.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming_Interface.UserControl1.resources
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.vbproj.GenerateResource.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.AssemblyInfoInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.AssemblyInfo.vb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.vbproj.CoreCompileInputs.cache
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.exe
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.deps.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.runtimeconfig.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.runtimeconfig.dev.json
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\ref\Gaming Interface.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\bin\Debug\net5.0-windows\Gaming Interface.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\ref\Gaming Interface.dll
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.pdb
+C:\Users\ECC21000482\OneDrive - Solihull College and University Centre\ICT Level 1 Diploma\Unit 6 Programming\Visual Studio\Gaming Interface\obj\Debug\net5.0-windows\Gaming Interface.genruntimeconfig.cache
